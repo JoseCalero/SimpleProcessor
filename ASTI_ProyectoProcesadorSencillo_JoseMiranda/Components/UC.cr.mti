@@ -1,0 +1,134 @@
+C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/mux2to1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/mux2to1.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2to1
+-- Compiling architecture RTL of mux2to1
+
+} {} {}} C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/alu.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/alu.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity alu
+-- Compiling architecture funcional of alu
+
+} {} {}} C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/PC.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/PC.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package configuracion
+-- Compiling entity PC
+-- Compiling architecture funcional of PC
+
+} {} {}} C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/RAM32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/RAM32.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity RAM_single_port
+-- Compiling architecture Behavioral of RAM_single_port
+
+} {} {}} C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package configuracion
+-- Compiling entity sistema
+-- Compiling architecture estructura of sistema
+** Warning: C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema.vhd(78): (vcom-1445) Duplicate signal "PSM_ADDRBUS" found in sensitivity list.
+
+
+} {} {}} C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/configuracion.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/configuracion.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package configuracion
+
+} {} {}} C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/PSM.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/PSM.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package configuracion
+-- Compiling entity PSM
+-- Compiling architecture estructura of PSM
+
+} {} {}} C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/mux3to1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/mux3to1.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux3to1
+-- Compiling architecture behavioral of mux3to1
+
+} {} {}} C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/RI.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/RI.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package configuracion
+-- Compiling entity RI
+-- Compiling architecture funcional of RI
+
+} {} {}} C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema_TB.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package configuracion
+-- Loading package std_logic_textio
+-- Compiling entity sistema_TB
+-- Compiling architecture simulacion of sistema_TB
+** Warning: C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema_TB.vhd(51): (vcom-1194) FILE declaration was written using VHDL 1987 syntax.
+
+
+} {} {}} C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/SP.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/SP.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package configuracion
+-- Compiling entity SP
+-- Compiling architecture funcional of SP
+
+} {} {}} C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/file_register.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/file_register.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity file_register
+-- Compiling architecture Behavioral of file_register
+
+} {} {}} C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/STATUS.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/STATUS.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity STATUS
+-- Compiling architecture estructura of STATUS
+
+} {} {}}

@@ -1,0 +1,590 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/JMC/Desktop/DRutaDeDatos
+Ealu
+Z0 w1424466039
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components
+Z6 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/alu.vhd
+Z7 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/alu.vhd
+l0
+L14
+VYRP7J7PL:^[aHeGn4k7z`0
+!s100 XA6z4:8CI[l=5FoaOFFzI2
+Z8 OV;C;10.3c;59
+32
+Z9 !s110 1424466308
+!i10b 1
+Z10 !s108 1424466308.101000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/alu.vhd|
+Z12 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/alu.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1
+Afuncional
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 YRP7J7PL:^[aHeGn4k7z`0
+l26
+L23
+VRXn]_?`g6diXBf]JB1iNK2
+!s100 fb;7a;8]^<2fm9B3mm6GN2
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Pconfiguracion
+R3
+R4
+w1424297833
+R5
+8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/configuracion.vhd
+FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/configuracion.vhd
+l0
+L13
+VSbmUR;DX?HWeDR7nB]=^S3
+!s100 aD3n=LWeEgO>_k3g`9J=]1
+R8
+32
+!s110 1424453574
+!i10b 1
+!s108 1424453574.114000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/configuracion.vhd|
+!s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/configuracion.vhd|
+!i113 1
+R13
+R14
+Econtrol
+Z15 w1424905921
+R3
+R4
+R5
+Z16 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/Control.vhd
+Z17 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/Control.vhd
+l0
+L13
+V>Ac;hgD53oNzIEhdN65?A3
+!s100 TFWXM2THX@_bj_]Q7c_:80
+R8
+32
+Z18 !s110 1424907571
+!i10b 1
+Z19 !s108 1424907570.900000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/Control.vhd|
+Z21 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/Control.vhd|
+!i113 1
+R13
+R14
+Afsm
+R3
+R4
+Z22 DEx4 work 7 control 0 22 >Ac;hgD53oNzIEhdN65?A3
+l64
+L52
+VfMX5b=[H0C`4Tkak[2Hkg0
+!s100 BXo?kA<]SlJ_WjLH_SXe[2
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
+Efile_register
+Z23 w1421103718
+R2
+R1
+R3
+R4
+R5
+Z24 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/file_register.vhd
+Z25 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/file_register.vhd
+l0
+L16
+V05B6zUI6`2e[U[hM^Bnfo0
+!s100 9_;<8na39[hJ2@m0=AD<l0
+R8
+32
+Z26 !s110 1424453575
+!i10b 1
+Z27 !s108 1424453575.427000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/file_register.vhd|
+Z29 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/file_register.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R1
+R3
+R4
+DEx4 work 13 file_register 0 22 05B6zUI6`2e[U[hM^Bnfo0
+l37
+L28
+VcSW>?OfzEHn69C]g3mD2Z1
+!s100 CW;C0IzP=`>K_V^IFGHz[2
+R8
+32
+R26
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R13
+R14
+Emux2to1
+Z30 w1424352306
+R3
+R4
+R5
+Z31 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/mux2to1.vhd
+Z32 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/mux2to1.vhd
+l0
+L15
+Ve9S[WX32ziAS0JX]EnOD>2
+!s100 UG:QK`:lL;@PdH7J0AB_V1
+R8
+32
+R26
+!i10b 1
+Z33 !s108 1424453575.986000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/mux2to1.vhd|
+Z35 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/mux2to1.vhd|
+!i113 1
+R13
+R14
+Artl
+R3
+R4
+DEx4 work 7 mux2to1 0 22 e9S[WX32ziAS0JX]EnOD>2
+l25
+L23
+VzZ_Bhmz=0?6M7h@in6NA^0
+!s100 C7_KaInP1X1NZ;<YJXQO11
+R8
+32
+R26
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R13
+R14
+Emux3to1
+Z36 w1423442098
+R3
+R4
+R5
+Z37 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/mux3to1.vhd
+Z38 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/mux3to1.vhd
+l0
+L12
+V8UHcO2Q4VF@WzQHGEU74b1
+!s100 4G<QilJ>[<zk;bR@]0Q[Q3
+R8
+32
+Z39 !s110 1424453576
+!i10b 1
+Z40 !s108 1424453576.560000
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/mux3to1.vhd|
+Z42 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/mux3to1.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R3
+R4
+DEx4 work 7 mux3to1 0 22 8UHcO2Q4VF@WzQHGEU74b1
+l21
+L20
+VORaIjkZk8Vf=HUFYdPm[f1
+!s100 9X=Dd]7h@<fV7eAAZi>I<0
+R8
+32
+R39
+!i10b 1
+R40
+R41
+R42
+!i113 1
+R13
+R14
+Epc
+Z43 w1422815818
+Z44 DPx4 work 13 configuracion 0 22 SbmUR;DX?HWeDR7nB]=^S3
+R2
+R1
+R3
+R4
+R5
+Z45 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/PC.vhd
+Z46 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/PC.vhd
+l0
+L17
+V<[R>S0n4W_L[mm^Ai8AU72
+!s100 13Uh99NezP=mH430BHODm1
+R8
+32
+Z47 !s110 1424453577
+!i10b 1
+Z48 !s108 1424453577.123000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/PC.vhd|
+Z50 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/PC.vhd|
+!i113 1
+R13
+R14
+Afuncional
+R44
+R2
+R1
+R3
+R4
+DEx4 work 2 pc 0 22 <[R>S0n4W_L[mm^Ai8AU72
+l30
+L26
+V^_NNRKK?]38o_`jgMKoZi0
+!s100 RoJ^LI6gz_l@^8[9@HBXi0
+R8
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R13
+R14
+Epsm
+Z51 w1424453498
+R44
+R2
+R1
+R3
+R4
+R5
+Z52 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/PSM.vhd
+Z53 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/PSM.vhd
+l0
+L18
+VlYQlNzg6nzjz2bb7_]iA@3
+!s100 90i9F8g5];=bDEb=PH@7b3
+R8
+32
+Z54 !s110 1424453580
+!i10b 1
+Z55 !s108 1424453580.170000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/PSM.vhd|
+Z57 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/PSM.vhd|
+!i113 1
+R13
+R14
+Aestructura
+R44
+R2
+R1
+R3
+R4
+DEx4 work 3 psm 0 22 lYQlNzg6nzjz2bb7_]iA@3
+l251
+L29
+V?9n2O[=YFh3T]``A^c=_J1
+!s100 C>PXeVN3R:2]YT0<SCD@l2
+R8
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R13
+R14
+Eram_single_port
+Z58 w1424293925
+R1
+R2
+Z59 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R3
+R4
+R5
+Z60 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/RAM32.vhd
+Z61 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/RAM32.vhd
+l0
+L15
+V]EBYK;CM_8fQIhKiZVzS13
+!s100 j>5=fhjAc1GK;cMFnE>?b2
+R8
+32
+R47
+!i10b 1
+Z62 !s108 1424453577.717000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/RAM32.vhd|
+Z64 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/RAM32.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R59
+R3
+R4
+DEx4 work 15 ram_single_port 0 22 ]EBYK;CM_8fQIhKiZVzS13
+l33
+L27
+Vo`SJ?0cfCCD1oF4]PN2R`0
+!s100 =5cnU[SMTi867>41eiXz11
+R8
+32
+R47
+!i10b 1
+R62
+R63
+R64
+!i113 1
+R13
+R14
+Eri
+Z65 w1424455064
+R44
+R3
+R4
+R5
+Z66 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/RI.vhd
+Z67 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/RI.vhd
+l0
+L15
+VzdK88SanaY0l_ZcFTmS6g3
+!s100 FH7fKeIdlU<?klPjY^A4C0
+R8
+32
+Z68 !s110 1424455077
+!i10b 1
+Z69 !s108 1424455077.247000
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/RI.vhd|
+Z71 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/RI.vhd|
+!i113 1
+R13
+R14
+Afuncional
+R44
+R3
+R4
+DEx4 work 2 ri 0 22 zdK88SanaY0l_ZcFTmS6g3
+l27
+L23
+V=nkAm6@L6=^eh4YlM>3YP0
+!s100 JcndAdNhz88NeCO31nQSV3
+R8
+32
+R68
+!i10b 1
+R69
+R70
+R71
+!i113 1
+R13
+R14
+Esistema
+Z72 w1423951106
+R44
+R2
+R1
+R3
+R4
+R5
+Z73 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema.vhd
+Z74 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema.vhd
+l0
+L17
+VPHg1c2TnBK74_j;E2DB]D1
+!s100 Tz4UaZaJDXU5H^j8dG_fD0
+R8
+32
+R54
+!i10b 1
+Z75 !s108 1424453580.717000
+Z76 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema.vhd|
+Z77 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema.vhd|
+!i113 1
+R13
+R14
+Aestructura
+R44
+R2
+R1
+R3
+R4
+DEx4 work 7 sistema 0 22 PHg1c2TnBK74_j;E2DB]D1
+l69
+L28
+VN6f?R?_bT^zBPS1=lD8zP0
+!s100 ;9[JggjNzDCbmK66g569S0
+R8
+32
+R54
+!i10b 1
+R75
+R76
+R77
+!i113 1
+R13
+R14
+Esistema_tb
+R72
+Z78 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R44
+R2
+R1
+R3
+R4
+R5
+Z79 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema_TB.vhd
+Z80 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema_TB.vhd
+l0
+L20
+VhTZg=<bz9R@ZRe_H>WAn_2
+!s100 ?LFcO<2bjTdzc^f_8^D^[2
+R8
+32
+Z81 !s110 1424453581
+!i10b 1
+Z82 !s108 1424453581.427000
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema_TB.vhd|
+Z84 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/sistema_TB.vhd|
+!i113 1
+R13
+R14
+Asimulacion
+R78
+R44
+R2
+R1
+R3
+R4
+DEx4 work 10 sistema_tb 0 22 hTZg=<bz9R@ZRe_H>WAn_2
+l46
+L23
+Vf?B2^CDaL2Ea<0RmfV]X21
+!s100 hR?`UnddmJR13RGd@`86h1
+R8
+32
+R81
+!i10b 1
+R82
+R83
+R84
+!i113 1
+R13
+R14
+Esp
+Z85 w1422143378
+R44
+R2
+R1
+R3
+R4
+R5
+Z86 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/SP.vhd
+Z87 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/SP.vhd
+l0
+L17
+V`mo>?KVSQ[ok5eC3z9[h^0
+!s100 I5aTSR6M2=PO^eG=1Z3@L0
+R8
+32
+Z88 !s110 1424453579
+!i10b 1
+Z89 !s108 1424453578.982000
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/SP.vhd|
+Z91 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/SP.vhd|
+!i113 1
+R13
+R14
+Afuncional
+R44
+R2
+R1
+R3
+R4
+DEx4 work 2 sp 0 22 `mo>?KVSQ[ok5eC3z9[h^0
+l32
+L29
+VL4?eCokW]PmGTXK>9JJCa2
+!s100 ;GIG6Z^LhV[bP8Tg`5:co3
+R8
+32
+R88
+!i10b 1
+R89
+R90
+R91
+!i113 1
+R13
+R14
+Estatus
+Z92 w1422830082
+R2
+R1
+R3
+R4
+R5
+Z93 8C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/STATUS.vhd
+Z94 FC:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/STATUS.vhd
+l0
+L15
+Vd3SN[C8fI6<I0`2Z[@HF=0
+!s100 adJgOlkA>_[S>V;ZH=BgS3
+R8
+32
+R88
+!i10b 1
+Z95 !s108 1424453579.592000
+Z96 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/STATUS.vhd|
+Z97 !s107 C:/Users/JMC/Desktop/ASTI/ASTI_UnidadDeControl/Components/STATUS.vhd|
+!i113 1
+R13
+R14
+Aestructura
+R2
+R1
+R3
+R4
+DEx4 work 6 status 0 22 d3SN[C8fI6<I0`2Z[@HF=0
+l42
+L38
+V;>YdoAQCIJMl5Y5`<U?RA3
+!s100 hBjFBHhKgJVcn5DUnUf6P0
+R8
+32
+R88
+!i10b 1
+R95
+R96
+R97
+!i113 1
+R13
+R14
